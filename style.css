@@ -10,6 +10,7 @@ h2{
 }
 .orange{
     color: orange;
+    padding-left: 
 }
 .flexible-container{
     display: flex;
@@ -65,4 +66,17 @@ h2{
 }
 footer p{
     text-align: center;
+}
+.experience{
+    padding-left: 70px;
+}
+.Im-learning{
+    padding-left: 10px;
+}
+.lorem1{
+    padding-left: 7px;
+}
+.learning{
+    padding-left: 10px;
+    color: orange;
 }
